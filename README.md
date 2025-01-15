@@ -16,8 +16,6 @@
 ## DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker&perline=10)](https://skillicons.dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vvs-jkr)](https://github.com/vvs-jkr/github-profile-trophy)
-
 [![codewars](https://www.codewars.com/users/vvs-jkr/badges/small)](https://www.codewars.com/users/vvs-jkr) 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvs-jkr&theme=solarized_dark)
