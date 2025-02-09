@@ -15,8 +15,7 @@
 # My Tech Stack
 
 ## Frontend
-
-[![My Skills](https://skillicons.dev/icons?i=js,css,sass,html,react,next,ts,vscode,webstorm,tailwindcss,radixui,reactquery,zod&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,sass,html,react,next,ts,vscode,webstorm,tailwindcss&perline=20)](https://skillicons.dev)
 
 ## Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,express,postgresql,firebase,nestjs,prisma,redis&perline=10)](https://skillicons.dev)
