@@ -8,10 +8,10 @@
 
 ## Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,sass,html,react,next,ts,vscode,webstorm,gulp,redux,electron,bootstrap,webpack,vite,jest,figma&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,css,sass,html,react,next,ts,vscode,webstorm,tailwindcss,radixui,reactquery,zod&perline=10)](https://skillicons.dev)
 
 ## Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,express,postgresql,firebase&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,express,postgresql,firebase,nestjs,prisma,redis&perline=10)](https://skillicons.dev)
 
 ## DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker&perline=10)](https://skillicons.dev)
