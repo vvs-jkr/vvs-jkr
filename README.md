@@ -27,8 +27,6 @@
 [![codewars](https://www.codewars.com/users/vvs-jkr/badges/small)](https://www.codewars.com/users/vvs-jkr) 
 
 ## GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vvs-jkr&theme=solarized_dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vvs-jkr&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vvs-jkr&theme=solarized_dark)
